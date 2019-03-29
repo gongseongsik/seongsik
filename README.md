@@ -1,0 +1,2 @@
+# seongsik
+just another repository
